@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang=ja dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>week3</title>
+  </head>
+  <body>
+    <h1>3D modeling</h1>
+    <h5>2018/07/11</h5>
+    <br>
+    ▶︎使用したソフト<br>
+    <a href="https://www.autodesk.co.jp/products/fusion-360/overview">Autodesk Fusion 360</a><br>
+    ▶︎作成したデータ<br>
+    <img src="lip1.png" alt="" width="250px"><br>
+    <img src="lip2.png" alt="" width="250px"><br>
+    <img src="lip3.png" alt="" width="250px"><br>
+    <img src="lip4.png" alt="" width="250px"><br>
+    <br><br>
+  </body>
+</html>
